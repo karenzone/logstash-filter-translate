@@ -1,3 +1,6 @@
+## 3.2.1
+  - Fix documentation issue. Corrected dictionary example by removing commas
+
 ## 3.2.0
   - Add `iterate_on` setting to support fields that are arrays, see the docs
   for detailed explanation.
